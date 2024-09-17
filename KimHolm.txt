@@ -1,1 +1,1 @@
-This is a message from Kim Holm
+Another Commit from Kim Holm
